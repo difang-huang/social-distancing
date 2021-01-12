@@ -46,4 +46,4 @@ NYT Covid Data (Cross-validated with JHU CSSE and Covid Tracking Project)
 
 (8) data_figure4c.xlsx
 
-State-level social distancing policies date (Stay-At-Home Orders)
+State-level social distancing policies date (Non-Essential Business Closure)
